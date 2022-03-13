@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
+  <img src="https://telegra.ph/file/06f28e4288070eb5f26a8.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
   <b>SAURABH SPAM BOT</b>
