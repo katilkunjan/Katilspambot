@@ -11,7 +11,7 @@
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy 10 Bots in One time 🔥
+- [x] Deploy 15 Bots in One time 🔥
 - [x] Deploy Using Bot Token 
 
 # Deploy on heroku
