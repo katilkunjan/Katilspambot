@@ -20,11 +20,11 @@ API_HASH = input("\nEnter API HASH here: ")
 
 try:
 
-   with TelegramClient(StringSession(), APP_ID, API_HASH) as RiZoeL:
+   with TelegramClient(StringSession(), APP_ID, API_HASH) as saurabh:
 
        print("\nSTRING SESSION GENERATE SUCCESSFULLY CHECK SAVED MASSAGE")
 
-       RiZoeL.send_message("me", f"**RiZoeL X Spam Session :**\n\n`{RiZoeL.session.save()}`\n\n__Do not share this anywhere!!__")
+       saurabh.send_message("me", f"**saurabh X Spam Session :**\n\n`{saurabh.session.save()}`\n\n__Do not share this anywhere!!__")
 
        
 
