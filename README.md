@@ -7,7 +7,7 @@
 
 [![Forks](https://img.shields.io/github/forks/bhumiharsaurabh/saurabhspambot?style=flat-square&color=orange)](https://github.com/bhumiharsaurabh/saurabhspambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bhumiharsaurabh/saurabhspambot-deploy)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bhumiharsaurabh/saurabhspambot-KATIL)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
@@ -16,7 +16,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhumiharsaurabh/saurabhspamBot-deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhumiharsaurabh/saurabhspamBot-KATIL)
 
 # Support & Updates
 * [Channel](https://t.me/heartbrokenperson1)
